@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Tester.java\ -\ open\ a\ text\ file,\ and\ create\ a\ hashed\ concordance\ \r\n\ using\ a\ binary\ search\ tree\ and\ a\ hash\ table\r\n\r\n\ @author\ Garrett\ Detwiler\r\n\ @version\ 9\ December\ 2023\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ @param\ main\ execute\ all\ run-time\ functions\r\n
+numComments=2

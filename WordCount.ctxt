@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\r\n\ WordCount.java\ -\ stores\ the\ word,\ number\ of\ occurrences,\ \r\n\ and\ line\ numbers\ of\ said\ occurrences\ for\ words\ in\ a\ medium\r\n\r\n\ @author\ Garrett\ Detwiler\r\n\ @version\ 9\ December\ 2023\r\n
+comment1.params=
+comment1.target=WordCount()
+comment1.text=\r\n\ @param\ Constructor()\ creates\ an\ empty\ object\ and\ instantiates\ data\ members\r\n
+comment2.params=w
+comment2.target=WordCount(java.lang.String)
+comment2.text=\r\n\ @param\ Constructor(String\ w)\ creates\ an\ object\ for\ a\ specific\ word\ and\ \r\n\ instantiates\ data\ members\r\n
+comment3.params=other
+comment3.target=int\ compareTo(WordCount)
+comment3.text=\r\n\ @param\ compareTo(WordCount\ other)\ compares\ the\ letters\ of\ two\ words\ to\ each\ other\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @param\ toString()\ creates\ a\ formatted\ String\ representing\ the\ \r\n\ data\ of\ the\ WordCount\ object\r\n\ @return\ formatted\ String\ representing\ data\ of\ the\ WordCount\ object\r\n
+numComments=5

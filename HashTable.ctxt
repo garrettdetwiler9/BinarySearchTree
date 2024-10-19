@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HashTable
+comment0.text=\r\n\ HashTable.java\ -\ opens\ a\ text\ file\ of\ common\ words\ and\ creates\ a\ hash\ table\r\n\ from\ the\ contents,\ and\ provides\ functions\ for\ hashing,\ finding,\ and\ toString\r\n\r\n\ @author\ Garrett\ Detwiler\r\n\ @version\ 9\ December\ 2023\r\n
+comment1.params=
+comment1.target=HashTable()
+comment1.text=\r\n\ @param\ Constructor\ opens\ a\ text\ file\ and\ creates\ a\ hash\ table\ of\ the\ contents\r\n
+comment2.params=word
+comment2.target=int\ hash(java.lang.String)
+comment2.text=\r\n\ @param\ hash(String\ word)\ creates\ an\ index\ point\ for\ the\ \r\n\ word\ in\ the\ hash\ table\r\n\ @return\ integer\ representing\ assigned\ index\ in\ hash\ table\r\n
+comment3.params=word
+comment3.target=boolean\ find(java.lang.String)
+comment3.text=\r\n\ @param\ find(String\ word)\ determines\ if\ an\ inputted\ word\ is\ in\ the\ hash\ table\r\n\ @return\ true\ if\ the\ inputted\ word\ is\ in\ the\ hash\ table\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @param\ toString()\ creates\ a\ formatted\ String\ representing\ the\ \r\n\ information\ of\ the\ hash\ table\r\n\ @return\ a\ formatted\ String\ representing\ the\ data\ of\ the\ hash\ table\r\n
+numComments=5

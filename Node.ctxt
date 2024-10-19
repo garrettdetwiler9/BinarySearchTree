@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=
+comment1.target=Node()
+comment2.params=obj
+comment2.target=Node(java.lang.Comparable)
+numComments=3
